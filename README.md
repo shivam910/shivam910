@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Shivam Shukla.
+- 👋 Hi, I’m Shivam Shukla
+
 - 🌱 I’m currently learning web devleopment technologies & DSA.
 - 👀 I’m looking for an internship in web development.
 - 💞️ I am a freelancer and a 2nd year Computer Science student.

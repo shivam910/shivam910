@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shivam shukla" target="blank"><img align="center"  alt="shivam shukla" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shivams910" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivams910" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivam shukla"  target="blank"><img src="https://i2.wp.com/www.pmolearning.co.uk/wp-content/uploads/2019/08/linkedin-logo.png?ssl=1" align="center"  alt="shivam shukla" height="30" width="100" /></a>
+<a href="https://www.codechef.com/users/shivams910" target="blank"><img align="center" src="https://i.pinimg.com/564x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="shivams910" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

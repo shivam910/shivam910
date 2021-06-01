@@ -9,7 +9,7 @@
 
 - 👀 I’m looking for an internship in **Web development.**
 
-- 📫 My LinkedIn profile: **https://www.linkedin.com/in/shivam-shukla-4b870b1b3**
+<!-- - 📫 My LinkedIn profile: **https://www.linkedin.com/in/shivam-shukla-4b870b1b3** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

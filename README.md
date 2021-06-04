@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Shukla</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">, I'm Shivam Shukla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam910&label=Profile%20views&color=0e75b6&style=flat" alt="shivam910" /> </p>

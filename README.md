@@ -39,7 +39,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam910&theme=dark)
   
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam910&show_icons=true&locale=en" alt="shivam910" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam910&theme=dark&show_icons=true&locale=en" alt="shivam910" /></p>
 <br/> <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam910&theme=dark" alt="shivam910" /></p>
 </div>
